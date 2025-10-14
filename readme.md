@@ -17,7 +17,7 @@ O objetivo do projeto é aplicar técnicas de análise de dados utilizando Pytho
 
 1. Clone o repositório:
     ```bash
-    git clone <url-do-repositorio>
+    git clone https://github.com/kadupenido/python-cd-avaliacao-final-grupo-5.git
     ```
 2. Instale as dependências:
     ```bash
