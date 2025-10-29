@@ -41,3 +41,15 @@ def plotar_dispersao_bolhas(df, x, y, size, hue=None, title='', xlabel='', ylabe
         plt.yscale('log')
     plt.grid(alpha=0.3)
     plt.show()
+
+# Função para plotar gráfico de barras horizontais
+def plotar_barras_horizontais(df, x_col, y_col, title='', xlabel='', ylabel='', figsize=(16, 8)):
+    plt.figure(figsize=figsize)
+    plt.barh(range(len(df)), df[x_col])
+    plt.yticks(range(len(df)), df[y_col])
+    plt.xlabel(xlabel)
+    plt.title(title)
+    plt.gca().invert_yaxis()
+    plt.grid(axis='x', alpha=0.3)
+    plt.tight_layout()
+    plt.show()
