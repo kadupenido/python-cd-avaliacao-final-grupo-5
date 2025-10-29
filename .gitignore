@@ -135,6 +135,3 @@ __pypackages__/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-# Jupyter Notebook completo
-notebooks/gapminder_analysis_completo.ipynb
