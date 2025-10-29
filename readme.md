@@ -34,11 +34,10 @@ O objetivo do projeto é aplicar técnicas de análise de dados utilizando Pytho
 
 ## Autores
 
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
-- Nome 5
+- Gabriel Moscatel Fevrier 
+- Carlos Eduardo Campos Penido
+- Marcelo Rodrigues Ribeiro
+- Ana Maria Moreira
 
 ## Licença
 
