@@ -27,10 +27,12 @@ O objetivo do projeto é aplicar técnicas de análise de dados utilizando Pytho
 
 ## Principais Bibliotecas Utilizadas
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- seaborn
+- jupyter
 
 ## Autores
 

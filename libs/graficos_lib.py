@@ -53,3 +53,4 @@ def plotar_barras_horizontais(df, x_col, y_col, title='', xlabel='', ylabel='', 
     plt.grid(axis='x', alpha=0.3)
     plt.tight_layout()
     plt.show()
+
